@@ -1,0 +1,54 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/abstract-purple-background_698452-1980.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722902400&semt=ais_hybrid");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+    margin-top: 15px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+h2{
+    color: aliceblue;
+    margin-top: 70px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+p{
+    color: aliceblue;
+    margin-top: 20px;
+    margin-left: 30px;
+   
+}
+.navbar{
+   
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 0;
+    margin-left: 65%;
+    
+   
+}
+.navbar a:hover{
+    color: brown;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    width: 300px;
+}
+.button button{
+    background-color: white;
+    color: black;
+    width: 150px;
+    border-radius: 75px;
+
+}

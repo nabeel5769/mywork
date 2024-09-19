@@ -1,0 +1,49 @@
+ body{
+   background-image: url("golden-cutlery-with-textile-plate-dark-background-top-view.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ .name h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color:rgb(169, 169, 169);
+
+ }
+ .main {
+    margin-top: 30px;
+    background-color:rgb(169, 169, 169);
+    
+ }
+ .main a{
+   color: black;
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+ }
+ .content{
+  color: white;
+  margin-top: 15%;
+  margin-left: 15%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+ }
+ .content h3{
+  font-size: 15px;
+ }
+ button{
+  margin-left:340px ;
+  margin-top: 20px;
+  background-color:white;
+  color: black;
+  font-weight:bold;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+ }
+ .button a:hover{
+  color: rgb(5, 100, 5);
+ }
